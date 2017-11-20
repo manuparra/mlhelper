@@ -13,6 +13,8 @@ $ npm install mlhelper
 
 ### Algorithm
 
+List of Algorithm availables: *kNN, DT(ID3), logistic regression, AdaBoost*
+
 **kNN:** 
 ```js
 const kNN = require('mlhelper').algorithm.kNN;
